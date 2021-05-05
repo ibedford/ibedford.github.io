@@ -1,1 +1,27 @@
-color
+body {
+	background-color: #ffb3b3;
+
+}
+
+h1 {
+	font-family: 'GFS Didot', serif;
+	color: #9d4ae0
+	border-color: #9d4ae0;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 2.5%;
+
+}
+
+body{
+	font-family: 'GFS Didot', serif;;
+	color: #9d4ae0
+
+}
+
+img{
+	border-color: #9d4ae0;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 10%;
+}
